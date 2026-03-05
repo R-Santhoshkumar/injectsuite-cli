@@ -59,7 +59,7 @@ InjectSuite is cross-platform and can be installed on Windows, Linux, and macOS.
    ```
 2. **Clone and Install**:
    ```bash
-   git clone https://github.com/yourusername/injectsuite-cli.git
+   git clone https://github.com/R-Santhoshkumar/injectsuite-cli.git
    cd injectsuite-cli
    pip3 install -r requirements.txt
    ```
@@ -72,7 +72,7 @@ InjectSuite is cross-platform and can be installed on Windows, Linux, and macOS.
 2. **Install Python and Clone**:
    ```bash
    brew install python git
-   git clone https://github.com/yourusername/injectsuite-cli.git
+   git clone https://github.com/R-Santhoshkumar/injectsuite-cli.git
    cd injectsuite-cli
    pip3 install -r requirements.txt
    ```
@@ -82,7 +82,7 @@ InjectSuite is cross-platform and can be installed on Windows, Linux, and macOS.
 2. **Clone and Install**:
    Open PowerShell or Command Prompt:
    ```powershell
-   git clone https://github.com/yourusername/injectsuite-cli.git
+   git clone https://github.com/R-Santhoshkumar/injectsuite-cli.git
    cd injectsuite-cli
    pip install -r requirements.txt
    ```
