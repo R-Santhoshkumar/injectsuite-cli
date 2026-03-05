@@ -1,12 +1,12 @@
-# InjectSuite - Modular Injection Detection Toolkit
+# InjectSuite - Injection Detection Toolkit
 
-InjectSuite is a professional, modular security scanning tool designed to detect common injection vulnerabilities in web applications. Built with a focus on ethical hacking and educational purposes, it provides a powerful yet user-friendly CLI interface for security researchers and developers to test their applications against SQL Injection, Cross-Site Scripting (XSS), and Command Injection.
+InjectSuite is a security scanning tool designed to detect common injection vulnerabilities in web applications. Built with a focus on ethical hacking and educational purposes, it provides a powerful yet user-friendly CLI interface for security researchers and developers to test their applications against SQL Injection, Cross-Site Scripting (XSS), and Command Injection.
 
 ![InjectSuite Banner](screenshots/banner.png)
 
 ## 🚀 Features
 
-- **SQL Injection Scanner**: Detects multiple types of SQLi (Boolean, Time, Redirect, Keyword).
+- **SQL Injection Scanner**: Detects multiple SQLi injection vulnerability.
 - **XSS Scanner**: Identifies Reflected XSS using an extensive payload library.
 - **Command Injection (CMDi) Scanner**: Probes for OS command injection vulnerabilities.
 - **Rich CLI Interface**: Progress bars, hacker-style animations, and formatted tables.
@@ -91,7 +91,7 @@ InjectSuite is cross-platform and can be installed on Windows, Linux, and macOS.
 
 ## 🧪 Security Testing & Validation
 
-To ensure accuracy and safety, InjectSuite was rigorously tested against industry-standard vulnerable applications. Testing was conducted exclusively in **authorized, local, and controlled environments**.
+To ensure accuracy and safety, InjectSuite was tested against industry-standard vulnerable applications. Testing was conducted exclusively in **authorized, local, and controlled environments**.
 
 ### 🛠️ Recommended Local Setup (Docker)
 
