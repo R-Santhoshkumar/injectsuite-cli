@@ -128,9 +128,9 @@ For substantial updates, we kindly suggest opening an issue first to discuss you
 
 ## ✒️ Author
 
-**Your Name**  
-*Security Researcher & Developer*  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Santhoshkumar R**  
+*Security Enthusiastic & Developer*  
+[LinkedIn](https://www.linkedin.com/in/santhoshkumar-r07) | [GitHub](https://github.com/R-Santhoshkumar)
 
 ## ⚠️ Legal & Ethical Disclaimer
 
